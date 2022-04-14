@@ -245,10 +245,17 @@ end
 
 # References
 
+^ Check out the paper if you're so inclined
+^ My codes and slides are on github
+
 Order-Revealing Encryption: New Constructions, Applications and Lower Bounds
 by Kevin Lewi & David Wu
  
 https://dl.acm.org/doi/10.1145/2976749.2978376
+
+
+*This talk* https://github.com/freshtonic/ore-talk-encrypt-syd.git
+
 
 ---
 
